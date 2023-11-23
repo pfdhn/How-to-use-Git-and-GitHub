@@ -4,8 +4,8 @@
 
 ## Table of Contents
 ### ANACONDA
-1. Basic Commands
-2. Best Practices
+1. [Basic Commands](https://github.com/pfdhn/Personal-Documentation/blob/main/Basic%20Commands.md)
+2. [Conda Environments](https://github.com/pfdhn/Personal-Documentation/blob/main/Conda%20Environment.md)
 3. How to add conda environment to jupyter
 
 ### PYTHON
