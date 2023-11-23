@@ -4,4 +4,6 @@
 
 
 ## Verify conda installation
-'''conda info'''
+'''
+conda info
+'''
