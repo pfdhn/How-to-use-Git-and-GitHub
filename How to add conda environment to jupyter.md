@@ -38,6 +38,14 @@ OR I resort to the easiest way of adding virtual environments which will be disc
 ### Automatically Add Conda Env to Jupyter Notebook
 I am not sure if automatic is the right term of saying this but this is far most the easiest way I know.
 
-Assuming you have already followed
+Assuming you have already followed [this section](https://github.com/pfdhn/Personal-Documentation/blob/main/How%20to%20add%20conda%20environment%20to%20jupyter.md#first-things-first) and you have created your virtual environment, then all you have to do is the following.
+
+Activate your virstual environment.
+```conda activate NAME_OF_ENV```
+
+And copy and paste the following commands:
+```conda install -c conda-forge notebook nb_conda_kernels jupyter_contrib_nbextensions```
+
+That's it!
 
 
