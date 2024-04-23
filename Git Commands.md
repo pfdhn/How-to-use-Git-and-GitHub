@@ -5,6 +5,14 @@
 git -v
 ```
 
+### Initialize a git repository
+Create and open directory folder and use the command:
+```
+git init
+```
+Or you can also skip manually creating the target directory and use the command below to create a folder and initialize it as a git repo.
+git init <project-name>
+
 ### Display all branches
 ```
 git branch
